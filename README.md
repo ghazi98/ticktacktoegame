@@ -11,3 +11,6 @@ This project focuses on replicating a tick-tack-toe game. This project intends o
 - If someone has won, announce which player won and exit.
 - For a new game, ask how many players are playing.
 - If there are no more moves left, don’t ask for the next player’s move!
+
+https://user-images.githubusercontent.com/61443806/147515400-36268a2a-2ce4-44a9-8f63-885b5ffe9a65.mov
+
